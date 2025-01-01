@@ -19,5 +19,3 @@ run_on_actor(actor, [[
     renameRemotes(loadedModule.Event.new, 4)
     renameRemotes(loadedModule.Func.new, 3)
 ]])
-
--- network for actor
